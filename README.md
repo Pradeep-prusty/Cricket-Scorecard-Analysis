@@ -13,7 +13,7 @@
 
 <br>
 
-## <u><b>Further you are required to do some analyses :</b></u>
+## <u><b>Further you are required to do some analyses:</b></u>
 * ### Rename all the column names to their appropriate names, for example meta.created should be renamed as created_date
 * ### Find out the top three venues which hosted the greatest number of matches.
 * ### Find out the pair of cricket teams who played the most number of T20 matches against each other.
